@@ -2,6 +2,8 @@
 
 A comprehensive cloud-based Point of Sale (POS) system for restaurants, hotels, cafes, and markets that streamlines order management, staff coordination, kitchen operations, and business analytics in real-time.
 
+**Technical Stack**: JavaScript (converted from TypeScript), React, Vite, Tailwind CSS
+
 **Experience Qualities**: 
 1. **Efficient** - Every interaction is optimized for speed during high-pressure service periods with minimal clicks and clear visual hierarchy
 2. **Reliable** - System feels stable and trustworthy with instant feedback, error prevention, and clear status indicators for all operations
